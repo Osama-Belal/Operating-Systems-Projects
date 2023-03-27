@@ -1,8 +1,8 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osama-belal&hide=prs&&count_private=true&show_icons=true&theme=transparent&color=#FFF)
+)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osama-belal&hide=prs&&count_private=true&show_icons=true&theme=transparent&theme=dark#gh-dark-mode-only)](https://github.com/osama-belal/github-readme-stats#gh-dark-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osama-belal&hide=prs&&count_private=true&show_icons=true&theme=transparent&theme=light#gh-light-mode-only)](https://github.com/osama-belal/github-readme-stats#gh-light-mode-only)
 
 > **Note**
 > Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone). The values are calculated by using the [cumulative distribution function](https://en.wikipedia.org/wiki/Cumulative_distribution_function) using commits, contributions, issues, stars, pull requests, followers, and owned repositories. The implementation can be investigated at [src/calculateRank.js](./src/calculateRank.js).
