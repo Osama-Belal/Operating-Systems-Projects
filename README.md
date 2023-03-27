@@ -1,5 +1,5 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?osama-belal=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osama-belal)](https://github.com/osama-belal/github-readme-stats)
 
 
 > **Note**
