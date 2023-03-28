@@ -1,0 +1,8 @@
+Method: A thread per element
+row=5 col=4
+175 190 205 220 
+400 440 480 520 
+625 690 755 820 
+850 940 1030 1120 
+1075 1190 1305 1420 
+Time taken = 0 second, 1728 microseconds

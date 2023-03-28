@@ -1,0 +1,6 @@
+Method: A thread per row
+row=3 col=4
+-1 10 -15 -28 
+-3 -10 15 -36 
+5 -2 -9 -20 
+Time taken = 0 second, 4085 microseconds
